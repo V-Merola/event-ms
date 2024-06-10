@@ -1,5 +1,5 @@
 package com.vincenzomerola.event_ms.configs;
 
-public class EventConfig {
+public class SecurityConfig {
 
 }
