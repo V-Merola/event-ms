@@ -1,5 +1,5 @@
 package com.vincenzomerola.event_ms.dtos;
 
-public class CreateEventRequest {
+public class MatchDTO {
 
 }

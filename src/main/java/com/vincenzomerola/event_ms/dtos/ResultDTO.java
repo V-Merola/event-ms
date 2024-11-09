@@ -1,5 +1,5 @@
 package com.vincenzomerola.event_ms.dtos;
 
-public class PartecipantDTO {
+public class ResultDTO {
 
 }
